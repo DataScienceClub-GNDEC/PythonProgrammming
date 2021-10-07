@@ -1,5 +1,5 @@
 import speech_recognition as sr
-audio_file = ("Dhoom3.wav")
+audio_file = ("Speech_To_Text/Dhoom3.wav")
 # use audio file as source
 
 r = sr.Recognizer() # initialize the recognizer
