@@ -27,6 +27,7 @@ while i<5:
     i = i+1
 print(card1)
 print(card2)
+
 ch = input("Spot the similar symbol: ")
 if ch == sameSymbol:
     print("\nRight, You WON!")
